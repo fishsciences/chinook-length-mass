@@ -16,4 +16,4 @@ ggplot(dat, aes(x = fl_mm, y = ww_g, col = study)) +
   labs(x = "Fork length (mm)", y = "Wet weight (g)") +
   scale_color_brewer(name = "Study", type = "qual", palette = "Set1") +
   theme_minimal()
-ggsave("chinook-length-mass.png", width = 6, height = 3.5)
+ggsave("chinook-length-weight.png", width = 6, height = 3.5)
