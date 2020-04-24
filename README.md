@@ -1,2 +1,2 @@
-# chinook-length-mass
-Collection of equations for length-mass relationships in Chinook Salmon
+# chinook-length-weight
+Collection of equations for length-weight relationships in Chinook Salmon
